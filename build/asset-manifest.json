@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/computerchacha-alpha/static/css/main.5f361e03.chunk.css",
+    "main.js": "/computerchacha-alpha/static/js/main.51a579cb.chunk.js",
+    "main.js.map": "/computerchacha-alpha/static/js/main.51a579cb.chunk.js.map",
+    "runtime-main.js": "/computerchacha-alpha/static/js/runtime-main.49ea7ec5.js",
+    "runtime-main.js.map": "/computerchacha-alpha/static/js/runtime-main.49ea7ec5.js.map",
+    "static/js/2.3a267f72.chunk.js": "/computerchacha-alpha/static/js/2.3a267f72.chunk.js",
+    "static/js/2.3a267f72.chunk.js.map": "/computerchacha-alpha/static/js/2.3a267f72.chunk.js.map",
+    "index.html": "/computerchacha-alpha/index.html",
+    "precache-manifest.a965000c194347f3bb56ddc66809eebc.js": "/computerchacha-alpha/precache-manifest.a965000c194347f3bb56ddc66809eebc.js",
+    "service-worker.js": "/computerchacha-alpha/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/computerchacha-alpha/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3a267f72.chunk.js.LICENSE.txt": "/computerchacha-alpha/static/js/2.3a267f72.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/computerchacha-alpha/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49ea7ec5.js",
+    "static/js/2.3a267f72.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.51a579cb.chunk.js"
+  ]
+}
