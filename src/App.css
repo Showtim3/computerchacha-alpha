@@ -4,7 +4,7 @@
 }
 
 .parent {
-  background-image: linear-gradient(to right, #0d0465, #7303c0, #ec38bc, #fdeff9);
+  background-image: linear-gradient(to right, #0d0465, #832cbe, #ec38bc, #9f26f1);
   width: 100vw;
   height: 100vh;
 }
@@ -17,6 +17,7 @@
 }
 
 .intro-container img {
+  border: 1.5px solid #FFF;
   width: 600px;
-  background-color: #ffffff59;
+  background-color: #ffffff2e;
 }
