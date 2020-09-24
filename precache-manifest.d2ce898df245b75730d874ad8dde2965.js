@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c813fdbca416d1958d05e7d826036988",
+    "revision": "9779cb597fd49723407a0ed7ffc82db6",
     "url": "/computerchacha-alpha/index.html"
   },
   {
-    "revision": "d03c0add9544c38f033b",
-    "url": "/computerchacha-alpha/static/css/main.ac69cf8f.chunk.css"
+    "revision": "d2459e52b4bf4b783f70",
+    "url": "/computerchacha-alpha/static/css/main.29b6cb5c.chunk.css"
   },
   {
     "revision": "f5934f14b5108be4435f",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/computerchacha-alpha/static/js/2.2accdc5f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d03c0add9544c38f033b",
+    "revision": "d2459e52b4bf4b783f70",
     "url": "/computerchacha-alpha/static/js/main.7f120b1c.chunk.js"
   },
   {
