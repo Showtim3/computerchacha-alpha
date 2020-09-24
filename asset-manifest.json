@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/computerchacha-alpha/static/css/main.5f361e03.chunk.css",
-    "main.js": "/computerchacha-alpha/static/js/main.51a579cb.chunk.js",
-    "main.js.map": "/computerchacha-alpha/static/js/main.51a579cb.chunk.js.map",
+    "main.css": "/computerchacha-alpha/static/css/main.ac69cf8f.chunk.css",
+    "main.js": "/computerchacha-alpha/static/js/main.7f120b1c.chunk.js",
+    "main.js.map": "/computerchacha-alpha/static/js/main.7f120b1c.chunk.js.map",
     "runtime-main.js": "/computerchacha-alpha/static/js/runtime-main.49ea7ec5.js",
     "runtime-main.js.map": "/computerchacha-alpha/static/js/runtime-main.49ea7ec5.js.map",
-    "static/js/2.3a267f72.chunk.js": "/computerchacha-alpha/static/js/2.3a267f72.chunk.js",
-    "static/js/2.3a267f72.chunk.js.map": "/computerchacha-alpha/static/js/2.3a267f72.chunk.js.map",
+    "static/js/2.2accdc5f.chunk.js": "/computerchacha-alpha/static/js/2.2accdc5f.chunk.js",
+    "static/js/2.2accdc5f.chunk.js.map": "/computerchacha-alpha/static/js/2.2accdc5f.chunk.js.map",
     "index.html": "/computerchacha-alpha/index.html",
-    "precache-manifest.a965000c194347f3bb56ddc66809eebc.js": "/computerchacha-alpha/precache-manifest.a965000c194347f3bb56ddc66809eebc.js",
+    "precache-manifest.957ea25b1f9b1e4703203a30cf129363.js": "/computerchacha-alpha/precache-manifest.957ea25b1f9b1e4703203a30cf129363.js",
     "service-worker.js": "/computerchacha-alpha/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/computerchacha-alpha/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.3a267f72.chunk.js.LICENSE.txt": "/computerchacha-alpha/static/js/2.3a267f72.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/computerchacha-alpha/static/media/logo.5d5d9eef.svg"
+    "static/css/main.ac69cf8f.chunk.css.map": "/computerchacha-alpha/static/css/main.ac69cf8f.chunk.css.map",
+    "static/js/2.2accdc5f.chunk.js.LICENSE.txt": "/computerchacha-alpha/static/js/2.2accdc5f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/computerchacha-alpha/static/media/logo.af2de71a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.49ea7ec5.js",
-    "static/js/2.3a267f72.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.51a579cb.chunk.js"
+    "static/js/2.2accdc5f.chunk.js",
+    "static/css/main.ac69cf8f.chunk.css",
+    "static/js/main.7f120b1c.chunk.js"
   ]
 }
