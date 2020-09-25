@@ -60,3 +60,23 @@
     color: #ffeb00;
     font-weight: bold !important;
 }
+.divyank-info-container {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    margin-top: 3rem;
+}
+.divyank-info-container img {
+    max-height: 23rem;
+    height: 23rem;
+    border-radius: 50%;
+}
+
+@media screen and (max-width: 800px) {
+    .divyank-info-container {
+        flex-wrap: wrap;
+    }
+    .masthead .masthead-avatar {
+        width: 90%;
+    }
+}
