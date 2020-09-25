@@ -1,0 +1,61 @@
+.about-team {
+    width: 100%;
+    margin: 0rem 0 0;
+}
+.about-team p {
+    color: #FFF;
+}
+
+.about-two-paras {
+    margin: 4rem 0;
+}
+
+.about-owner-wrapper {
+    margin-top: 3rem;
+}
+
+.about-owner-wrapper a {
+    color: darkblue;
+}
+
+.product-description-header {
+    font-weight: bold;
+    font-size: 1.4rem;
+    text-align: center;
+    display: block;
+    margin: 0.5rem 0 1rem;
+}
+
+.product-description-value {
+    text-align: center;
+    display: block;
+}
+
+.contact-us-text-secondary {
+    font-size: 1.2rem;
+}
+
+.open-challenge-primary {
+    font-size: 1.2rem;
+    color: red;
+    font-weight: bold;
+}
+.open-challenge-secondary {
+    font-size: 1.1rem;
+    color: red;
+}
+.open-challenge-container {
+    margin: 1.2rem 0;
+}
+
+.contact-item-header {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.contact-list-item {
+    margin: 1rem 0;
+}
+.keyword-yellow {
+    color: #ffeb00;
+}
