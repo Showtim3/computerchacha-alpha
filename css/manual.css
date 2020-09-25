@@ -79,4 +79,7 @@
     .masthead .masthead-avatar {
         width: 90%;
     }
+    .contact-text {
+        font-size: 1.5rem !important;
+    }
 }
