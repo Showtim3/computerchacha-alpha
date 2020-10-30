@@ -74,7 +74,7 @@
 
 @-webkit-keyframes glow-red {
     from {
-        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #f92a46, 0 0 40px #a30319, 0 0 50px #f92a46, 0 0 60px #A30319, 0 0 70px #A30319;
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #f92a46, 0 0 40px #f92a46, 0 0 50px #f92a46, 0 0 60px #A30319, 0 0 70px #A30319;
     }
     to {
         text-shadow: 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #f92a46, 0 0 50px #f92a46, 0 0 60px #f92a46, 0 0 70px #A30319, 0 0 80px #A30319;
@@ -83,10 +83,10 @@
 
 @-webkit-keyframes glow-green {
     from {
-        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #79f92a, 0 0 40px #79f92a, 0 0 50px #79f92a, 0 0 60px #2d7104, 0 0 70px #2d7104;
+        text-shadow: 0 0 10px #fff, 0 0 20px #79f92a, 0 0 30px #79f92a, 0 0 40px #79f92a, 0 0 50px #79f92a, 0 0 60px #2d7104, 0 0 70px #2d7104;
     }
     to {
-        text-shadow: 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #79f92a, 0 0 50px #79f92a, 0 0 60px #79f92a, 0 0 70px #2d7104, 0 0 80px #2d7104;
+        text-shadow: 0 0 20px #fff, 0 0 30px #79f92a, 0 0 40px #79f92a, 0 0 50px #79f92a, 0 0 60px #79f92a, 0 0 70px #2d7104, 0 0 80px #2d7104;
     }
 }
 
@@ -172,6 +172,8 @@
     }
     .product-header-text-mobile {
         display: block;
+        text-decoration: underline;
+        text-transform: uppercase;
     }
     .product-item-list {
         width: 100%;
