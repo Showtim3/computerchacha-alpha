@@ -101,6 +101,7 @@
 }
 .product-item-list li {
     font-size: 1.2rem;
+    word-spacing: 0.2rem;
 }
 .product-mouse {
     position: relative;
