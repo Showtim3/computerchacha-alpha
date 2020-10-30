@@ -10261,5 +10261,6 @@ form .row:first-child .floating-label-form-group {
 }
 
 .products-link {
-  font-size: 1.2rem;
+  font-size: 1.5rem;
+  font-weight: bolder;
 }
